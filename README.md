@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Last Commit](https://img.shields.io/github/last-commit/SEU_USUARIO/SEU_REPO)
+
 # lit_review_pipeline — busca e triagem para revisão sistemática
 
 Pipeline em Python (scripts independentes, sem framework) para automatizar a
