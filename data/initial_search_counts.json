@@ -1,0 +1,12 @@
+{
+  "_comentario": "Total retornado por cada base na busca inicial (já com filtro de data). Preencha à mão com o que cada conector / exportação reportou; usado só por pipeline/extras/report_per_base_funnel.py. Valores abaixo são os da primeira execução deste pipeline, como exemplo.",
+  "openalex": 1222,
+  "scopus": 2335,
+  "ieee_xplore": 852,
+  "acm_dl": 1973,
+  "springer": 11079,
+  "wiley": 622,
+  "taylor_francis": 790,
+  "web_of_science": 335,
+  "sciencedirect": 884
+}

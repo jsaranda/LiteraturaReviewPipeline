@@ -1,0 +1,3 @@
+# Formato: source_db|~|título|~|ano|~|venue|~|url  (uma linha por artigo; linhas iniciadas por # são ignoradas)
+ieee_xplore|~|A Distributed Agent-Oriented Framework for Blockchain-Enabled Supply Chain Management|~|2022|~|2022 IEEE International Conference on Blockchain and Distributed Systems Security (ICBDS)|~|https://ieeexplore.ieee.org/document/9936015/
+ieee_xplore|~|Application of Agent Technology in Supply Chain and Negotiation Under E-Commerce Environment|~|2023|~|2023 3rd Asian Conference on Innovation in Technology (ASIANCON)|~|https://ieeexplore.ieee.org/document/10269877/

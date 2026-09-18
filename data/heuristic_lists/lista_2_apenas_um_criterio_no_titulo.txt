@@ -1,0 +1,3 @@
+# Formato: source_db|~|título|~|ano|~|venue|~|url  (uma linha por artigo; linhas iniciadas por # são ignoradas)
+ieee_xplore|~|A Blockchain-Monitored Agentic AI Architecture for Trusted Perception–Reasoning–Action Pipelines|~|2025|~|2025 International Conference on Computer and Applications (ICCA)|~|https://ieeexplore.ieee.org/document/11430865/
+ieee_xplore|~|Design of Multi Agent Autonomous Workflow Systems using Agentic AI Frameworks|~|2026|~|2026 International Conference on AI-Driven Smart Systems and Ubiquitous Computing (ICAUC)|~|https://ieeexplore.ieee.org/document/11441280/

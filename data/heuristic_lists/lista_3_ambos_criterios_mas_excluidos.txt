@@ -1,0 +1,3 @@
+# Formato: source_db|~|título|~|ano|~|venue|~|url  (uma linha por artigo; linhas iniciadas por # são ignoradas)
+ieee_xplore|~|Multi-Agent Based Smart System for Supply Chain Management|~|2024|~|2024 IEEE International Conference on Computing, Power and Communication Technologies (IC2PCT)|~|https://ieeexplore.ieee.org/document/10486294/
+ieee_xplore|~|Optimization of green reverse logistics network Integrating artificial bee colony Algorithm and multi-agent system: case of medical waste|~|2020|~|2020 5th International Conference on Logistics Operations Management (GOL)|~|https://ieeexplore.ieee.org/document/9314763/

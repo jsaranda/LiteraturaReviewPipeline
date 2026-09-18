@@ -1,0 +1,6 @@
+requests>=2.31
+bibtexparser>=1.4,<2      # leitura das exportações .bib (API 1.x)
+langdetect>=1.0.9         # etapa 04 (detecção de idioma)
+anthropic>=0.40           # etapas 06/07 e 11/12 (triagem por LLM, Batch API)
+openpyxl>=3.1             # planilhas .xlsx (etapa 16 e heuristics/)
+python-dotenv>=1.0        # carrega o .env automaticamente (opcional)
