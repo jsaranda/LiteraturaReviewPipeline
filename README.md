@@ -35,8 +35,8 @@ Initial search
   -> Manual full-text eligibility decision
 ```
 
-The review began with 20,092 records retrieved from nine bibliographic sources
-and retained 30 primary studies. The public supplementary workbook contains
+The review retrieved 23,116 records from nine bibliographic sources
+and retained 37 primary studies. The public supplementary workbook contains
 the final study identifiers, metadata, classifications, quality assessment,
 evidence maturity, and analytical summary used in the manuscript.
 
@@ -47,12 +47,12 @@ available at:
 
 [`supplementary/Agentic_AI_Logistics_Supplementary_Dataset.xlsx`](supplementary/Agentic_AI_Logistics_Supplementary_Dataset.xlsx)
 
-The workbook contains the final 30-study corpus, bibliographic metadata,
+The workbook contains the final 37-study corpus, bibliographic metadata,
 study-level classifications, quality-assessment scores, evidence-maturity
 levels, analytical mappings, and consolidated descriptive results reported in
 the manuscript.
 
-Study identifiers S01–S30 correspond directly to the identifiers used in the
+Study identifiers S01–S37 correspond directly to the identifiers used in the
 manuscript tables and figures. The workbook contains the final validated
 classifications and omits internal working notes, preliminary suggestions, and
 superseded counts.
