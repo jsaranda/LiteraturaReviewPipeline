@@ -1,6 +1,5 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/status-research%20artifact-blue)
-![Last Commit](https://img.shields.io/github/last-commit/jsaranda/LiteraturaReviewPipeline)
 
 # Literature-search and screening pipeline
 
